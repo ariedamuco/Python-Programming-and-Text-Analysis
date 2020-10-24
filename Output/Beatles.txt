@@ -1,4 +1,4 @@
-Mr John
-Mr Paul
-Mr George
-Mr Ringo
+Paul
+John
+Ringo
+George

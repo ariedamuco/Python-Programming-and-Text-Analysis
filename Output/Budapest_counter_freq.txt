@@ -1075,7 +1075,7 @@ ndor;4
 iconic;1
 widely;1
 attraction;1
-chenyi;7
+chenyi;6
 romantic;1
 vigad;3
 promenade;1
